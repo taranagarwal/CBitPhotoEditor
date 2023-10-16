@@ -1,2 +1,1 @@
-This is a C program that takes an image as input and can perform certain 
-manipulations to photoshop the image
+This is a C program that takes an image as input and can perform certain manipulations to photoshop the image. Call methods on an image to distort it using bit shifts.
